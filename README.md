@@ -21,6 +21,7 @@
 
 Página que lista alguns Pokemons e detalha informações como o nome, seu identificador, quais suas estatísticas e o total geral deste pokemon.
 
+* Página publicada pode ser vista aqui: [Pokemon layout final](https://brunocs90.github.io/pokedex/).
 * Estas informações foram retiradas do site [pokemondb.net](https://pokemondb.net/pokedex/all).
 * Página responsiva.
 * Buscar as informações a partir do json do projeto (Doing).
@@ -36,7 +37,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🔖 Layout
 
 O layout foi proposto durante a semana devemdobro. Entretanto, foram feitos algumas personalizações durante o desenvolvimento.
-A página publicada pode ser vista aqui: [layout](https://brunocs90.github.io/pokedex/).
 
 ## :memo: Licença
 
